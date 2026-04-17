@@ -32,7 +32,7 @@ fase 2 zit in **filter eerst, DM daarna** — 100 slechte DM's leveren niks op;
 
 **Tools (voorkeur → fallback):**
 1. **Joobi Sales Engagement** — primair voor OMB, haalt likers/commenters +
-   basisprofiel in één stap binnen. Zie [joobi.io](https://www.joobi.io).
+   basisprofiel in één stap binnen. Zie [joobi.io](https://app.joobi.io/login).
 2. **Phantombuster / Evaboot / TexAu** — alternatieven
 3. **Sales Navigator + handmatige export** — fallback als scraper-tools niet werken
 
