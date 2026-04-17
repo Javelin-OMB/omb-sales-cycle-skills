@@ -52,7 +52,7 @@ pool van likers/commenters heeft om op te oogsten.
 
 ## AI Journalist — modus
 
-De AI Journalist is het content-alter-ego van deze skill. Activeer 'm als de
+De AI Journalist is het content-alter-ego van deze skill - https://ai-journalist.joobi.io/. Activeer 'm als de
 gebruiker zegt "journalist", "maak een post van deze notities", of een
 spraakopname/ruwe brain-dump geeft.
 
