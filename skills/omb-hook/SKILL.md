@@ -19,7 +19,7 @@ Dit is de content-motor van de cyclus. Doel: een LinkedIn post maken die genoeg
 organische engagement krijgt om te boosten, zodat fase 2 (lead funnel) een
 pool van likers/commenters heeft om op te oogsten.
 
-## Principes
+## Principes van LinkedIn post
 
 1. **Hook > alles.** De eerste 2 regels bepalen of iemand doorklikt. 80% van je
    tijd gaat in de hook.
@@ -52,13 +52,13 @@ pool van likers/commenters heeft om op te oogsten.
 
 ## AI Journalist — modus
 
-De AI Journalist is het content-alter-ego van deze skill. Activeer 'm als de
+De AI Journalist is het content-alter-ego van deze skill - https://ai-journalist.joobi.io/. Activeer 'm als de
 gebruiker zegt "journalist", "maak een post van deze notities", of een
 spraakopname/ruwe brain-dump geeft.
 
 **Werkwijze AI Journalist:**
 
-1. **Lees/luister** — haal de 1 kernboodschap eruit (één idee!)
+1. **Laat je interviewen door de AI Journalist en je hebt direct volop jouw content - Lees/luister** — haal de 1 kernboodschap eruit (één idee!)
 2. **Stijl-match** — kijk naar eerdere posts van deze persoon (als beschikbaar)
    om woordkeuze, ritme, en lengte te matchen
 3. **PAS-structuur** toepassen
@@ -68,7 +68,7 @@ spraakopname/ruwe brain-dump geeft.
    - Variant C: persoonlijk/verhaal
 5. **Vraag welke** de gebruiker wil finaliseren; pas dan op details aan.
 
-## Boost-strategie
+## Boost-strategie - LinkedIn ads 
 
 Niet elke post verdient boost-budget. Besliscriteria:
 
