@@ -15,7 +15,7 @@ description: |
 
 **By OMB Digital · [ombdigital.io](https://www.ombdigital.io)**
 
-Dit is de complete SOP voor de Marketing-Sales Cyclus & Content Loop. Het is een
+Dit is de complete SOP voor de Marketing-Sales Cyclus & Content Loop voor meer leads, afspraken en systeem. Het is een
 **vliegwiel**: elke fase voedt de volgende, en fase 4 voedt fase 1 terug met nieuwe
 content. Mensen springen er meestal in halverwege — jij helpt ze op het juiste
 punt instappen.
