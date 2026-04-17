@@ -19,7 +19,7 @@ Dit is de content-motor van de cyclus. Doel: een LinkedIn post maken die genoeg
 organische engagement krijgt om te boosten, zodat fase 2 (lead funnel) een
 pool van likers/commenters heeft om op te oogsten.
 
-## Principes
+## Principes van LinkedIn post
 
 1. **Hook > alles.** De eerste 2 regels bepalen of iemand doorklikt. 80% van je
    tijd gaat in de hook.
