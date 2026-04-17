@@ -39,16 +39,13 @@ niet pitchen**. Wie praat, verliest; wie vraagt, wint.
 - Koppel aan company (zoek op domain; maak aan als niet bestaand)
 - Zet `lifecycle stage` = "Lead" of "MQL" afhankelijk van warmte
 
-**Eigenaars (voor OMB):**
-| Eigenaar | HubSpot owner ID |
-|---|---|
-| Tom Spoor | 315304623 |
-| Caspar Fraiture | 315277083 |
+**Portal & eigenaars:**
+Vraag de gebruiker bij eerste gebruik om:
+- HubSpot **portal ID** (staat in URL na login: `app.hubspot.com/contacts/<portal-id>/...`)
+- **Owner-IDs** voor de sales reps (zichtbaar via Settings → Users & Teams in HubSpot)
 
-**Portal OMB:** 4767105
-
-Voor andere bedrijven: vraag de gebruiker om portal ID + owner IDs bij eerste
-gebruik; onthoud die voor de sessie.
+Onthoud deze voor de sessie, of laat de gebruiker ze opslaan in een lokale
+`.claude/project-config.md` of memory-entry voor hergebruik.
 
 **Zonder MCP:** genereer een CSV met de juiste HubSpot-kolomnamen voor handmatige
 import.
