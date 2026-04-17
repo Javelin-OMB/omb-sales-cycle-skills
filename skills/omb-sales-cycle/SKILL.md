@@ -1,5 +1,5 @@
 ---
-name: omb-sales-cycle
+name: omb-sales-cycle - Complete Stappenplan van LinkedIn hook tot deal
 description: |
   Complete Marketing → Sales → Voice Loop cyclus van OMB Digital. Orchestrator-skill
   die de 4 fases aan elkaar rijgt: content & hook → lead funnel → sales contact →
