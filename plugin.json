@@ -1,0 +1,36 @@
+{
+  "$schema": "https://raw.githubusercontent.com/anthropics/claude-code/main/schemas/plugin.json",
+  "name": "omb-sales-cycle-skills",
+  "version": "0.1.0",
+  "description": "The complete Marketing → Sales → Voice Loop cycle as modular Claude Code skills. By OMB Digital.",
+  "author": {
+    "name": "OMB Digital",
+    "email": "tom.spoor@ombdigital.io",
+    "url": "https://www.ombdigital.io"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Javelin-OMB/omb-sales-cycle-skills",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Javelin-OMB/omb-sales-cycle-skills.git"
+  },
+  "keywords": [
+    "claude-code",
+    "skills",
+    "sales",
+    "linkedin",
+    "outreach",
+    "hubspot",
+    "marketing",
+    "voice-agent",
+    "joobi",
+    "ai-journalist"
+  ],
+  "skills": [
+    "skills/omb-sales-cycle",
+    "skills/omb-hook",
+    "skills/omb-funnel",
+    "skills/omb-contact",
+    "skills/omb-voiceloop"
+  ]
+}
