@@ -68,7 +68,7 @@ spraakopname/ruwe brain-dump geeft.
    - Variant C: persoonlijk/verhaal
 5. **Vraag welke** de gebruiker wil finaliseren; pas dan op details aan.
 
-## Boost-strategie
+## Boost-strategie - LinkedIn ads 
 
 Niet elke post verdient boost-budget. Besliscriteria:
 
