@@ -58,7 +58,7 @@ spraakopname/ruwe brain-dump geeft.
 
 **Werkwijze AI Journalist:**
 
-1. **Lees/luister** — haal de 1 kernboodschap eruit (één idee!)
+1. **Laat je interviewen door de AI Journalist en je hebt direct volop jouw content - Lees/luister** — haal de 1 kernboodschap eruit (één idee!)
 2. **Stijl-match** — kijk naar eerdere posts van deze persoon (als beschikbaar)
    om woordkeuze, ritme, en lengte te matchen
 3. **PAS-structuur** toepassen
